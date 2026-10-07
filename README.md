@@ -1,4 +1,4 @@
-﻿# cisco-config-drift
+# cisco-config-drift
 
 Read-only configuration drift detection for Cisco IOS and IOS-XE. Save an approved baseline of every device's running-config, then check on a schedule and get a clean diff of anything that changed outside change control.
 
