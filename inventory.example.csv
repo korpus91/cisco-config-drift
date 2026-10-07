@@ -1,0 +1,4 @@
+﻿name,host,device_type
+core-sw1,192.0.2.10,cisco_xe
+access-sw1,192.0.2.21,cisco_ios
+

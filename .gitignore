@@ -1,0 +1,7 @@
+﻿inventory.csv
+baselines/
+reports/
+logs/
+__pycache__/
+.pytest_cache/
+
